@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="dynaml-lib-ddehueck",
+    name="dynaml-lib",
     version="0.0.1",
     author="Cole Morgan, Devin de Hueck, Henry Creamer, Jonathon Cai",
     author_email="d.dehueck@gmail.com",
